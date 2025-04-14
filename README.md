@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+😄🌱👯⚡ I am studying at the University of Chinese Academy of Sciences(UCAS).
 <!--
 **YangTheory/YangTheory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
